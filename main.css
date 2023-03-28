@@ -182,6 +182,10 @@ section.feature div img.arrow {
     visibility: hidden;
 }
 
+section.feature div img.arrow:hover {
+	cursor: pointer;
+}
+
 section.feature div:hover {
     transition: 0.5s;
     padding: 10px 10px 80px 10px;
